@@ -1,12 +1,12 @@
 # README.MD
 Making attractive and usable readme's. 
-This is a short description about the content of my proyect. This text have to be simple and explicit.
+This is a short description about the content of my project. This text have to be simple and explicit.
 
 ## Content
-This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
+This project has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
+If you want to see the demo of this project deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
 
 ## How to clone
 If you have special requirements, you have to list it step by step.
@@ -17,7 +17,7 @@ If you have special requirements, you have to list it step by step.
 Markdown has enumation and nested lists.
 
 ## Installation
-To install and run this proyect just type and execute
+To install and run this project just type and execute
 ```bash
 npm install
 ```
