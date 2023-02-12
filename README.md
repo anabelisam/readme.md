@@ -1,4 +1,4 @@
-Sahil Hussain says this Community is amazing.
+Sahil Hussain says that this Community is amazing.
 
 
 
